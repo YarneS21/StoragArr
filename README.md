@@ -154,8 +154,3 @@ Important:
 - Scheduled scan windows and throttling
 - Smarter duplicate detection and cleanup actions
 - Notifications for threshold alerts
-
-## License
-
-No license file is currently present in this repository.
-Add one before public/commercial reuse.

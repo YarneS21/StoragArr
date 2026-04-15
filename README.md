@@ -14,6 +14,12 @@ It scans mounted directories, tracks usage over time, highlights growth trends, 
 - Supports first-run admin bootstrap and authenticated admin actions.
 - Watches directories for changes and rescans automatically.
 
+## Preview
+
+![Dashboard View 1](docs/images/preview1.png)
+![Dashboard View 2](docs/images/preview2.png)
+![Admin Settings](docs/images/admin.png)
+
 ## Tech Stack
 
 - Backend: Node.js + Fastify

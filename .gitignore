@@ -4,6 +4,7 @@ docker-compose.dev.yml
 docker-compose.prod.yml
 docker-compose.yml
 Dockerfile
+Dockerfile.dev
 release.ps1
 config/
 backend/node_modules/

@@ -49,7 +49,7 @@ services:
     image: yarnes/storagarr:latest
     container_name: storagarr
     environment:
-      - JWT_SECRET=${JWT_SECRET:-}
+      - JWT_SECRET=replace_with_long_random_secret
     ports:
       - "8282:8282"
     volumes:

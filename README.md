@@ -3,7 +3,7 @@
 Storagarr is a self-hosted storage observability app for media libraries.
 It scans mounted directories, tracks usage over time, highlights growth trends, and helps spot duplicate/bloat folder sets.
 
-> Yes, this project has been vibe coded and was created due to a quick personal need to have some better insight of how much storage was getting used.
+> Yes, this project has been vibe coded and was created due to a quick personal need to have some better insight of how much storage was getting used. Any suggestions or fixes? Create an Issue.
 
 ## What It Does
 

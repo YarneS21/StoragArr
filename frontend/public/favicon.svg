@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <defs>
+    <style>
+      .box { fill: #a78bfa; }
+      .box-dark { fill: #8b5cf6; }
+      .accent { fill: #c084fc; }
+    </style>
+  </defs>
+  <rect width="256" height="256" fill="#0b0e16"/>
+  <g transform="translate(30, 50)">
+    <rect x="0" y="0" width="60" height="60" class="box" rx="4"/>
+    <rect x="70" y="0" width="60" height="60" class="box-dark" rx="4"/>
+    <rect x="140" y="0" width="60" height="60" class="accent" rx="4"/>
+    <rect x="0" y="70" width="60" height="60" class="box-dark" rx="4"/>
+    <rect x="70" y="70" width="60" height="60" class="accent" rx="4"/>
+    <rect x="140" y="70" width="60" height="60" class="box" rx="4"/>
+  </g>
+</svg>

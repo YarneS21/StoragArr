@@ -1,0 +1,10 @@
+deploy.sh
+DEPLOYMENT.MD
+docker-compose.dev.yml
+docker-compose.prod.yml
+docker-compose.yml
+Dockerfile
+release.ps1
+config/
+backend/node_modules/
+frontend/node_modules/

@@ -79,6 +79,8 @@ It scans mounted directories, tracks usage over time, highlights growth trends, 
 
 ## Quick Run
 
+### [Docker Hub](https://hub.docker.com/r/yarnes/storagarr)
+
 ```bash
 docker run -d \
   --name storagarr \
